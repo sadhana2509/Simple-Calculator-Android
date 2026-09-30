@@ -1,0 +1,12 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<resources>
+<string name="app_name">Simple Calculator</string>
+<string name="simple_calculator">Simple Calculator</string>
+<string name="enter_first_number">Enter first number</string>
+<string name="enter_second_number">Enter second number</string>
+<string name="addition">Addition (+)</string>
+<string name="subtraction">Subtraction (-)</string>
+<string name="multiplication">Multiplication (×)</string>
+<string name="division">Division (÷)</string>
+<string name="result">Result: </string>
+</resources>
